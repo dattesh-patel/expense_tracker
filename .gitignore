@@ -1,0 +1,22 @@
+
+# Local database
+expense_tracker.db
+expense_tracker.db-journal
+expense_tracker.db-shm
+expense_tracker.db-wal
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
